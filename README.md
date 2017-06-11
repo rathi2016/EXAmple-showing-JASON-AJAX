@@ -49,7 +49,7 @@ An example of Jason:(nested storing of data using array and objects)
   ```
               or
 
-i.e popular and agreed upon format for sending and storing data
+#Popular and agreed upon format for sending and storing data
 
 ##What we are doing in this project ?
 - TO use Javascript in AJAX to Load the JASON data by visiting this url -
@@ -58,7 +58,7 @@ i.e popular and agreed upon format for sending and storing data
 - add new html to the page based on the content of our data variable
 - only run our AJAX call when the the event of button click is triggered.
 
- ##AJAX
+###AJAX
  -The process of sending and receving data without a page reload is known as Ajax
 
 - A -asynchronous (means in the background or not requiring the page refresh)
