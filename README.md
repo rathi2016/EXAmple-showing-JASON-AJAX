@@ -49,7 +49,7 @@ An example of Jason:(nested storing of data using array and objects)
   ```
               or
 
-# Popular and agreed upon format for sending and storing data
+### Popular and agreed upon format for sending and storing data
 
 ## What we are doing in this project ?
 - TO use Javascript in AJAX to Load the JASON data by visiting this url -
