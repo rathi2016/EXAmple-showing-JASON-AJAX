@@ -61,7 +61,7 @@ i.e popular and agreed upon format for sending and storing data
  ##AJAX
  -The process of sending and receving data without a page reload is known as Ajax
 
-A -asynchronous (means in the background or not requiring the page refresh)
-J -Javascript
-A -and
-X -XML (data format very similar to JSON) since in recent year <P>JSON have replaced XML as the most popular data form since XML was very important for very long time and so was very important in the history of web development therefore like a tribute we still call 'AJAX' but not 'AJAJ' </P>
+- A -asynchronous (means in the background or not requiring the page refresh)
+- J -Javascript
+- A -and
+- X -XML (data format very similar to JSON) since in recent year <P>JSON have replaced XML as the most popular data form since XML was very important for very long time and so was very important in the history of web development therefore like a tribute we still call 'AJAX' but not 'AJAJ' </P>
