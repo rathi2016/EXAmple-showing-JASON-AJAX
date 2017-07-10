@@ -3,7 +3,7 @@
 - Objects
 - Arrays
 
-An example of Jason:(nested storing of data using array and objects)
+An example of Json:(nested storing of data using array and objects)
 ```
 [
   {
@@ -52,8 +52,8 @@ An example of Jason:(nested storing of data using array and objects)
 ### Popular and agreed upon format for sending and storing data
 
 ## What we are doing in this project ?
-- TO use Javascript in AJAX to Load the JASON data by visiting this url -
-[JasonExample](https://learnwebcode.github.io/json-example/animals-1.json) on the fly i.e without reloading the page.
+- TO use Javascript in AJAX to Load the JSON data by visiting this url -
+[JsonExample](https://learnwebcode.github.io/json-example/animals-1.json) on the fly i.e without reloading the page.
 - we need to respond to on click button events
 - add new html to the page based on the content of our data variable
 - only run our AJAX call when the the event of button click is triggered.

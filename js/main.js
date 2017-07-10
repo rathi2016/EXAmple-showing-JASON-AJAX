@@ -1,6 +1,7 @@
 var button = document.getElementById('button');
-var aniamalDetails = document.getElementById('animal-info');
+var animalDetails = document.getElementById('animal-info');
 var counter = 1
+
 button.addEventListener("click", function(){
 
   var ourRequest = new XMLHttpRequest();
@@ -23,7 +24,7 @@ function renderHtml(data){
     string += "<p>"+data[i].name + " is a " + data[i].species + ".</p>";
   }
   // we use method available to all DOM elements 'insertAdjacentHTML'
-  aniamalDetails.insertAdjacentHTML('beforeend',string)
+  animalDetails.insertAdjacentHTML('beforeend',string)
 }
 // creating an instance of build in tool of web browser "XMLHttpRequest()"
 
